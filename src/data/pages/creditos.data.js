@@ -3,7 +3,7 @@ export const creditosPage = {
   "aliases": [
     "/creditos/"
   ],
-  "title": "Créditos | Catedral de Santiago",
+  "title": "Créditos | Parroquia San Pedro de Andahuaylas",
   "bodyClass": "page-template-default page page-id-1072 _masterslider _ms_version_3.9.5 group-blog cmplz-functional cmplz-eu cmplz-optin",
   "isHome": false,
   "heroHtml": "",

@@ -3,7 +3,7 @@ export const cookiesPage = {
   "aliases": [
     "/politica-cookies/"
   ],
-  "title": "Política de cookies | Catedral de Santiago",
+  "title": "Política de cookies | Parroquia San Pedro de Andahuaylas",
   "bodyClass": "page-template-default page page-id-19783 _masterslider _ms_version_3.9.5 group-blog cmplz-functional cmplz-eu cmplz-optin",
   "isHome": false,
   "heroHtml": "",

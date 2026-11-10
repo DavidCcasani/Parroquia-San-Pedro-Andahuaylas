@@ -5,7 +5,7 @@ export const homePage = {
     "/es/",
     "/inicio"
   ],
-  "title": "Catedral de Santiago de Compostela",
+  "title": "Parroquia San Pedro de Andahuaylas",
   "bodyClass": "home page-template-default page page-id-9 _masterslider _ms_version_3.9.5 group-blog cmplz-functional cmplz-eu cmplz-optin",
   "isHome": true,
   "heroHtml": "<div class=\"home-presentacion\">\n\n    <div class=\"contenido-pres-ext\">\n        <div class=\"container\">\n            <div class=\"contenido-pres\">\n                <div class=\"logo_pres\">\n                    <img width=\"330\" height=\"209\" src=\"/assets/images/logo_parroquia_san_pedro_hero.png\" class=\"attachment-large size-large\" alt=\"Parroquia San Pedro\" decoding=\"async\" fetchpriority=\"high\">                </div>\n                <div class=\"titulo-pres\">\n                    <h1>\n                        Fe, tradición y esperanza en la Pradera de los Celajes                    </h1>\n                </div>\n            </div>\n        </div>\n    </div>\n    <div class=\"overlay-pres\"></div>\n    <div class=\"img-pres\" style=\"background-image:url(/assets/images/foto-parroquia-san-pedro-lateral.jpg)\">\n    </div>\n</div>\n\t",

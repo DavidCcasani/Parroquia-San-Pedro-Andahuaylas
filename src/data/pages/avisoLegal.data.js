@@ -3,7 +3,7 @@ export const avisoLegalPage = {
   "aliases": [
     "/aviso-legal/"
   ],
-  "title": "Aviso legal | Catedral de Santiago",
+  "title": "Aviso legal | Parroquia San Pedro de Andahuaylas",
   "bodyClass": "page-template-default page page-id-11723 _masterslider _ms_version_3.9.5 group-blog cmplz-functional cmplz-eu cmplz-optin",
   "isHome": false,
   "heroHtml": "",

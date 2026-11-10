@@ -3,7 +3,7 @@ export const descubriendoPage = {
   "aliases": [
     "/descubriendo-la-catedral/"
   ],
-  "title": "Descubriendo la Catedral | Catedral de Santiago",
+  "title": "Descubriendo la Catedral | Parroquia San Pedro de Andahuaylas",
   "bodyClass": "page-template-default page page-id-12064 _masterslider _ms_version_3.9.5 group-blog cmplz-functional cmplz-eu cmplz-optin",
   "isHome": false,
   "heroHtml": "",

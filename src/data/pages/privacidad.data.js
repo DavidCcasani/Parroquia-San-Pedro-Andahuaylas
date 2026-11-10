@@ -3,7 +3,7 @@ export const privacidadPage = {
   "aliases": [
     "/politica-privacidad/"
   ],
-  "title": "Política de privacidad | Catedral de Santiago",
+  "title": "Política de privacidad | Parroquia San Pedro de Andahuaylas",
   "bodyClass": "privacy-policy page-template-default page page-id-13104 _masterslider _ms_version_3.9.5 group-blog cmplz-functional cmplz-eu cmplz-optin",
   "isHome": false,
   "heroHtml": "",
