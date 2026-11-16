@@ -25,8 +25,8 @@ export const tramitesPage = {
             <span class="icon-bar"></span>
           </button>
           <a class="navbar-brand" rel="home" href="/">
-            <img class="hidden-xs hidden-sm visible-md visible-lg" src="/assets/images/logo_catedral_small.png" alt="Parroquia San Jeronimo logo">
-            <img class="visible-xs visible-sm hidden-md hidden-lg" src="/assets/images/logo_responsive.png" alt="Parroquia San Jeronimo logo">
+            <img class="hidden-xs hidden-sm visible-md visible-lg" src="/assets/images/Iglesia_De_San_Jerónimo_logo.png" alt="Parroquia San Jeronimo logo">
+            <img class="visible-xs visible-sm hidden-md hidden-lg" src="/assets/images/glesia_De_San_Jerónimo_logo_version2.png" alt="Parroquia San Jeronimo logo">
           </a>
         </div>
         <div class="navbar-collapse collapse" id="bs-example-navbar-collapse-1">
